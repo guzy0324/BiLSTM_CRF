@@ -1,12 +1,13 @@
 # BiLSTM_CRF
 ## Requirements
 
-|Name  |Version    |
-|------|-----------|
-|python|3.8.3      |
-|numpy |1.18.5     |
-|torch |1.7.0+cu110|
-|tqdm  |4.47.0     |
+|Name   |Version    |
+|-------|-----------|
+|python |3.8.3      |
+|numpy  |1.18.5     |
+|torch  |1.7.0+cu110|
+|tqdm   |4.47.0     |
+|matplot|3.2.2      |
 
 ## Data set
 [msrseg.rar](https://github.com/guzy0324/BiLSTM_CRF/releases/download/v0.1.0/msrseg.rar)
